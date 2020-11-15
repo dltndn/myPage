@@ -1,0 +1,11 @@
+/* body {
+  background-image: url();
+} */
+ .form,
+ .greetings{
+   display: none;
+ }
+
+.showing{
+  display: block;
+}
